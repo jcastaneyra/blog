@@ -1,8 +1,16 @@
 <div id="disqus_thread"></div>
 <script type="text/javascript">
   var disqus_shortname = '{{ site.disqus_short_name }}';
-  var disqus_identifier = '{{ site.url }}{{ page.url }}';
-  var disqus_url = '{{ site.url }}{{ page.url }}';
+  if(typeof(custom_disqus_identifier) != "undefined") {
+    var disqus_identifier = custom_disqus_identifier;
+  } else {
+    var disqus_identifier = '{{ site.url }}{{ page.url }}';
+  }
+  if(typeof(custom_disqus_url) != "undefined") {
+    var disqus_url = custom_disqus_url;
+  } else {
+    var disqus_url = '{{ site.url }}{{ page.url }}';
+  }
   //var disqus_developer = 1;
   (function() {
     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
