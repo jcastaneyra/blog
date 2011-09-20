@@ -16,7 +16,7 @@ Vim siempre ha sido un editor muy poderoso, el cual he usado por años pero no c
 
 Con el post de Jamis Buck y el plugin que hizo (<a href="http://github.com/jamis/fuzzyfinder_textmate/tree/master">FuzzyFinder_TextMate</a> que extendió de <a href="http://www.vim.org/scripts/script.php?script_id=1984">FuzzyFinder</a>) y a todas las respuestas que recibió en su blog, es como he levantado mi ambiente con Vim, en este caso lo he hecho en la Mac, pero en Linux deber ser casi igual.
 
-{% img left http://www.jcastaneyra.com/wp-content/uploads/2008/12/imagen-1-300x277.png %}
+{% img left http://c243421.r21.cf1.rackcdn.com/imagen-1-300x277.png %}
 
 En Leopard primero que nada me instalé MacVim bajándolo de <a href="http://code.google.com/p/macvim/">http://code.google.com/p/macvim/</a> y después con ayuda de los posts de Jamis Buck y de los comments ahí puestos logré levantar mi ambiente (<a href="http://weblog.jamisbuck.org/2008/10/10/coming-home-to-vim">Coming home to Vim</a> y <a href="http://weblog.jamisbuck.org/2008/11/17/vim-follow-up">Vim Follow-up</a>), también en los comments de estos posts encontré a una persona que puso en github su configuración de vim al igual que sus plugins de vim, que por cierto fue de bastante ayuda (<a href="http://github.com/manalang/vim-config/tree/master">http://github.com/manalang/vim-config/tree/master</a>). Se que en internet hay muchos recursos sobre comandos de Vim, pero aquí está uno que me encontré :) <a href="http://rayninfo.co.uk/vimtips.html">http://rayninfo.co.uk/vimtips.html</a>
 

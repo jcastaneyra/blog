@@ -157,5 +157,5 @@ starting STOMP-listeners      ...done
 broker running
 ```
 
-  [rabbitmqlogo]: http://www.jcastaneyra.com/wp-content/uploads/2010/05/RabbitMQLogo-300x79.png
+  [rabbitmqlogo]: http://c243421.r21.cf1.rackcdn.com/RabbitMQLogo-300x79.png
   [steps]: /2009/06/07/instalando-rabbitmq/

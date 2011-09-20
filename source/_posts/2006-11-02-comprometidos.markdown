@@ -8,7 +8,7 @@ categories:
 
 Mi flaca y yo ya estamos comprometidos, ya le entregué el anillo de compromiso, he aquí la evidencia.
 
-<a href="http://jcastaneyra.files.wordpress.com/2006/11/anillo_compromiso.jpg" title="anillo_compromiso.jpg"><img src="http://jcastaneyra.files.wordpress.com/2006/11/anillo_compromiso.jpg" alt="anillo_compromiso.jpg" /></a>
+<img src="http://c243421.r21.cf1.rackcdn.com/anillo_compromiso.jpg" alt="anillo_compromiso.jpg" />
 
 Le entregué el anillo una tarde en la playa, ese día, el cielo estaba nublado, pero parte del cielo en el horizonte se veía despejado y con los rayos de sol tocando sobre las nubes, antes de entregarle el anillo le di una carta en la cual le decía todo mi sentir y el porqué quiero pasar el resto de mis días con ella.
 

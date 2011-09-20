@@ -29,7 +29,7 @@ Categories=Application;Network;
 
 Y ser vería más o menos así:
 
-<img src="http://jcastaneyra.files.wordpress.com/2006/11/menu_azureus.jpg" alt="Azureus en el menú" />
+<img src="http://c243421.r21.cf1.rackcdn.com/menu_azureus.jpg" alt="Azureus en el menú" />
 
 Y si se quieren hacer más cosas para poner a punto Ubuntu, he aquí una muy buena guía:
 
