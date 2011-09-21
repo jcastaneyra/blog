@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-{% img left http://www.jcastaneyra.com/wp-content/uploads/2008/10/jose.jpg %}
+{% img left http://c243421.r21.cf1.rackcdn.com/me.jpg 244 205 %}
 Hola, gracias por visitar mi blog, yo soy José y aquí te comento un poco de mí, soy desarrollador de software, hasta el momento tengo una ingeniería en computación, una maestría en tecnologías de la información y un par de certificaciones en Java, tengo experiencia en algunos lenguajes de programación, en algunos más que en otros, como C, C++, Java, Perl, PHP, Ruby, Prolog, Lisp, hace un tiempo ya, Fortran, Pascal, Cobol, conozco también algunas otras tecnologías como frameworks, servidores de aplicaciones y demás cosas, que van desde Tomcat, Weblogic, JBoss, Ruby on Rails, Django, algunos sistemas operativos también como Linux, OpenBSD, FreeBSD, Mac OS, Solaris, HP-UX, bueno hasta en alguna ocasión me he metido con algo de Photoshop y de Blender, en fin muchas cosas.
 
 La intensión no es hacer alarde de las cosas o tecnologías que se en poca o mayor medida, el punto aquí es que al estar en el negocio de las tecnologías de información tiene uno que estar luchando por absorver una gran cantidad de información (por eso la lista del primer párrafo) día con día, en tu trabajo, en tu negocio, por iniciativa propia, siempre hay información nueva (y al igual información vieja) y de todos los tipos, desde texto, audio (podcasts), vídeo (screencasts), tutoriales, artículos, imágenes, en fin, una cantidad enorme de información, y para acabarla en muchos idiomas.
