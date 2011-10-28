@@ -8,6 +8,9 @@ categories: personal
 
 Se está llevando, computadoras mac económicas, bara bara, para la hermana(o), para la mamá(papá), para la novia(o), para la abuelita(o), por única ocasión le estamos ofreciendo los siguientes modelos:
 
+UPDATE: Ya sólo estoy vendiendo la MacBook Air, de preferencia aquí en
+el DF o bien si se requiere hacer envío correría a cuenta del comprador.
+
 ## MacBook Air/1.6GHz (2008)
 
 * Tipo de Procesador: Core 2 Duo (P7500)
