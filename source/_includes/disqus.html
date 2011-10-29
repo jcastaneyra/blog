@@ -4,9 +4,21 @@
       var disqus_shortname = '{{ site.disqus_short_name }}';
       {% if page.comments == true %}
         {% comment %} `page.comments` can be only be set to true on pages/posts, so we embed the comments here. {% endcomment %}
-        // var disqus_developer = 1;
-        var disqus_identifier = '{{ canonical }}';
-        var disqus_url = '{{ canonical }}';
+        //var disqus_developer = 1;
+        if(typeof(custom_disqus_identifier) != "undefined") {
+          var disqus_identifier = custom_disqus_identifier;
+        } else {
+          //var disqus_identifier = '{{ canonical }}';
+          var disqus_identifier = '{{ site.url }}{{ page.url }}';
+        }
+
+        if(typeof(custom_disqus_url) != "undefined") {
+          var disqus_url = custom_disqus_url;
+        } else {
+          //var disqus_url = '{{ canonical }}';
+          var disqus_url = '{{ site.url }}{{ page.url }}';
+        }
+
         var disqus_script = 'embed.js';
       {% else %}
         {% comment %} As `page.comments` is empty, we must be on the index page. {% endcomment %}
