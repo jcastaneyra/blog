@@ -12,6 +12,8 @@ El trabajar con message queues es bastante interesante, ya que podemos mandar pr
 
 En esta ocasión les quiero presentar como enviar correos de manera asíncrona haciendo una aplicación sencilla haciendo uso de los puglins Workling y workling-mailer y del sistema RabbitMQ, en teoría, con esto se podría ajustar esta solución fácilmente a cualquier otro proceso que se quiera realizar de manera asíncrona.
 
+<!-- more -->
+
 Aplicación base
 ---------------
 

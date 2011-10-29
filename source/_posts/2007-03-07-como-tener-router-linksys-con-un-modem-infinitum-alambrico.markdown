@@ -10,6 +10,8 @@ Bueno, realmente no se si esto sea un howto o un tutorial, pero al menos para mi
 
 Sucede que donde estoy viviendo no tengo la posibilidad de <img src="http://c243421.r21.cf1.rackcdn.com/wrt54g.jpg" alt="wrt54g.jpg" align="right" />contratar una conexión broadband de internet (por cuestiones de arrendamiento), por lo que me di a la tarea de contactar con los vecinos y ver si alguien me podría apoyar, y obviamente yo apoyar con los gastos de la conexión, para mi buena suerte, las vecinas del departamento de al lado, que son sobrinas de una amiga de la familia de mi flaca, tienen internet con infinitum, pero sólo tienen el modem alámbrico, así es que tuve que comprar un router inalámbrico, el equipo que compré fue un linksys WRT54G.
 
+<!-- more -->
+
 Al primer intento de instalación del router, éste no jaló, después de analizar bien la situación e investigando un poco, me di cuenta que el modem alámbrico de infinitum proporciona ip's dinámicas en el rango de ip's privadas 192.168.1.0 y que el router inalámbrico linksys por defecto también proporciona en ese mismo rango por lo que la conexión a internet de buenas a primeras no es posible.
 
 Después de haber dado una leída en algunos foros de discusión en internet, muchas soluciones eran dadas, pero la más fácil de todas (para mi) es cambiar la dirección IP local del router en la configuración básica a 192.168.2.1, guardar los cambios, apagar y volver a prender el router wireless, de esta manera el modem alámbrico infinitum maneja el rango de ip's 192.168.1.0 y el router 192.168.2.0, evitando el problema de choque con estos dos grupos de ip's entre los dos equipos.

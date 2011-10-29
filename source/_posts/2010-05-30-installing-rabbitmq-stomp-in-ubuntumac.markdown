@@ -12,6 +12,8 @@ categories:
 
 In the project I'm working now it was needed to have RabbitMQ running with Stomp as a message queue for Orbited, we know that Orbited comes with MorbidQ, but in our system we already had running RabbitMQ and used by other processes, so, two queue systems at the same time were not needed.
 
+<!-- more -->
+
 But, searching for Stomp over RabbitMQ info or some kind of tutorial was difficult and painful, a friend of mine would say "a real pain in the ass", there was info but not too clear. For that reason here is another note to myself, just in case.
 
 *  RabbitMQ 1.6.0 installed, [here there are some steps][steps] to install it.

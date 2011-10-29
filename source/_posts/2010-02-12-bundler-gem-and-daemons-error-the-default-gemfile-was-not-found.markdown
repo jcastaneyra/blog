@@ -17,6 +17,8 @@ Almost all was done, so, at the moment to start the daemons, we get the followin
 	from /usr/lib/ruby/gems/1.8/gems/bundler-0.9.3/lib/bundler.rb:64:in `setup'
 ```
 
+<!-- more -->
+
 So, looking for this error in google we didn't get anything, and looking into the bundler gem code the solution to this problems was:
 
 ``` ruby

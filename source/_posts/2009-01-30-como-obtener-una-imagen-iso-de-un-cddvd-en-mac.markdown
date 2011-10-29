@@ -8,6 +8,8 @@ categories:
 
 Hace poco un compañerito de la comunidad de [México on Rails][railsmx] mencionó que tener una Mac es como tener lo mejor de ambos mundos (de Windows y Linux), y he aquí el porqué, resulta que quería obtener una imagen ISO de cierto DVD para respaldarlo y posiblemente después quemarlo, y aquí les muestro al más puro estilo Unix como se puede hacer.
 
+<!-- more -->
+
 Primero que nada hay que insertar el CD/DVD a extraer (duh! pero alguien podría no saber :) )
 
 Y ejecutando el siguiente comando obtenemos el status del CD/DVD a quemar:

@@ -8,6 +8,8 @@ categories: personal
 
 Se está llevando, computadoras mac económicas, bara bara, para la hermana(o), para la mamá(papá), para la novia(o), para la abuelita(o), por única ocasión le estamos ofreciendo los siguientes modelos:
 
+<!-- more -->
+
 UPDATE: Ya sólo estoy vendiendo la MacBook Air, de preferencia aquí en
 el DF o bien si se requiere hacer envío correría a cuenta del comprador.
 

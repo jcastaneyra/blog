@@ -8,6 +8,8 @@ categories:
 
 Hace poco instalé la última versión stable de Debian, pero resulta que tenía interés de probar algunos paquetes más recientes de MySQL y de PHP, los cuáles se encontraban en la versión testing de los paquetes, así es que me puse a buscar en la red para saber como poder instalar desde la versión testing sin tener que mover todos mis paquetes a esta versión, o sin tener que estar modificando la lista de fuentes en sources.list a cada rato, y he aquí lo que se tiene que hacer.
 
+<!-- more -->
+
 Primero debemos tener la lista de fuentes de las versiones stable y testing en /etc/apt/sources.list. En mi caso apunto a los fuentes que están en un mirror de la UNAM:
 <pre lang="bash"># sources for stable
 deb http://nisamox.fciencias.unam.mx/debian/ stable main

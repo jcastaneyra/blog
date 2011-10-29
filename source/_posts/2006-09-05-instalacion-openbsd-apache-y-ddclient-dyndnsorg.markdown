@@ -8,6 +8,8 @@ categories:
 
 OpenBSD es uno de los sistemas open source tipo unix más seguros que existen, y ¿porqué es uno de los mas seguros?, es porque la seguridad viene por default ("secure by default"), es decir, en la instalación por default se tiene un sistema minimalista con tan sólo los servicios mínimos requeridos y eso lo hace muy seguro, es más, en la página de OpenBSD (<a href="http://www.openbsd.org" title="OpenBSD">http://www.openbsd.org</a>) aseguran que sólo han tenido un hueco remoto en la instalación por default en más de 8 años. Y claro, algo muy importante es que lo puedo instalar en mi máquina pentium a 200 Mhz, si lo se, corre muy lento, pero creo que es la mejor opción.
 
+<!-- more -->
+
 Bien, para instalar openbsd hay que seguir la guía que está aquí:
 
 <a href="http://www.openbsd.org/faq/faq4.html" title="OpenBSD faq 4">http://www.openbsd.org/faq/faq4.html</a>

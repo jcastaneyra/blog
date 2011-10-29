@@ -16,6 +16,8 @@ A decir verdad no soy un experto en git, pero esto es lo que me ha funcionado. P
 git tag -a -m "My old and ugly style" old_style
 ```
 
+<!-- more -->
+
 Para ver nuestros tags locales tenemos que ejecutar
 
 ```

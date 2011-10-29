@@ -8,6 +8,8 @@ categories:
 
 Pues bien, haciendo referencia a Jaws apenas en el post de "Cómo agregar videos de youtube en Jaws", ahora traigo un nuevo post, en el que vamos a ver como habilitar la opción de ver los gravatars en los comentarios.
 
+<!-- more -->
+
 Pero, para empezar ¿Qué es un gravatar?, de la definición en <a href="http://site.gravatar.com/">site.gravatar.com</a>:
 <blockquote>What is a gravatar?
 

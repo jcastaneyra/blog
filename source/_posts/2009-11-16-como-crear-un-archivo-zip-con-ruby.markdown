@@ -8,6 +8,8 @@ categories:
 
 Hace unos días me encontré con el problema de generar archivos Zip que contuvieran archivos de un curso de SCORM, ¿Cómo hacerlo?, lo primero que me vino a la mente fue Ruby!!!
 
+<!-- more -->
+
 La gema que me sirvió para esto fue rubyzip, y con el siguiente fragmento de código se realizaron los archivos zip:
 
 {% gist 235735 %}

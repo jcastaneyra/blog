@@ -8,6 +8,8 @@ categories:
 
 Al día de hoy no tengo una computadora a mi disposición, y como no tengo una, de vez en cuando hago cosas en la compu del trabajo, que no debería, y también a veces me prestan la macbook air, y en la macbook puedo trabajar un poco más, que me gustaría trabajar mucho más en la macbook, pues bien, hace rato ya había trabajado con Ruby on Rails con la versión que trae el leopard, pero hace unos días me dieron ganas de probar la RC de RoR la 2.2 (ya la RC2), para instalarlo tuve que investigar un poquito, ya que no es un proceso de instalación sencillo, tiene algunos trucos, para esto me basé en el post de <a href="http://danbenjamin.com/articles/2008/02/ruby-rails-leopard">Dan Benjamin</a>, pero para variar me hago un resumen a mi mismo, para cuando se me vuelva a ofrecer, así que para más detalle visitar el post, ahí si mencionan que sólo por las dudas sería bueno respaldar la información, yo no lo hice, y todo salió bien.
 
+<!-- more -->
+
 Pues bien, para tener instalada una de las últimas versiones de RoR y diferente a las que está instalada por defecto en leopard es necesario tener instalado el XCode 3.0 o superior, este puede ser bajado de developer.apple.com o bien instalándolo del disco que viene con la mac, la verdad no se que disco es, pero con la mac debe de venir un disco (o más no recuerdo).
 
 <strong>Primeros pasos</strong>

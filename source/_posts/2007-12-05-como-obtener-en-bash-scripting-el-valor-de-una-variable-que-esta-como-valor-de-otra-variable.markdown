@@ -10,6 +10,8 @@ Si, así como lo leen, ¿Cómo obtener el valor de una variable cuyo nombre a su
 
 Supongamos que yo quiero ejecutar el comando de hostname para obtener el nombre de mi servidor, pero a su vez yo tengo una variable en mi script cuyo nombre es el mismo resultado del comando hostname (que igual y podría ser cualquier otro comando, o cualquier otro resultado, la idea sería tener algo así como variables anidadas).
 
+<!-- more -->
+
 Pues bien, al ejecutar el comando hostname, el resultado de este comando sería "gandalf":
 <pre lang="bash">jcastaneyra@gandalf:~/My documents$ hostname
 gandalf</pre>

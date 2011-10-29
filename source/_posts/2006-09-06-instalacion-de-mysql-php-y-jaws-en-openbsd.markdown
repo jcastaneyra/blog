@@ -8,6 +8,8 @@ categories:
 
 Muchos de los sitios en internet que hacen uso de páginas con contenido dinámico utilizan MySQL como base de datos y PHP como lenguaje de programación para habilitar dichas páginas dinámicas. Pero existen algunos sistemas de administración de contenidos (Content Management System), uno en partícular que ha sido creado por mexicanos (<a href="http://ion.gluch.org.mx/">Jonathan Hernández</a>), y es Jaws (<a href="http://www.jaws.com.mx" title="Jaws">http://www.jaws.com.mx</a>), éste hace uso de MySQL y de PHP. A continuación muestro un pequeño howto de como instalar MySQL, PHP y Jaws sobre OpenBSD.
 
+<!-- more -->
+
 Bien, la versión de OpenBSD sobre la cuál vamos a instalar estos paquetes es la 3.9, la guía de instalación de OpenBSD se encuentra aquí:
 
 <a href="http://www.openbsd.org/faq/faq4.html" title="OpenBSD faq">http://www.openbsd.org/faq/faq4.html</a>

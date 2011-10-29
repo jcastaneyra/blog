@@ -10,6 +10,8 @@ Cuando empecé a meterme con Rails me encontré con que había unos cuantos IDE'
 
 Al ver esto me preguntaba porque era más usado un editor de texto turbocargado con comandos en la consola y no un IDE, y la respuesta de los expertos era que con la consola de comandos y un editor se tiene más control sobre el proyecto además de la experiencia que esto te deja en lugar de dejar a que el IDE automatice todo.
 
+<!-- more -->
+
 Pues bien, debido a una cuestión de $$ me puse a usar un rato Aptana y JEdit, con los cuales tuve buenas experiencias, pero recientemente vi el <a href="http://weblog.jamisbuck.org/2008/10/10/coming-home-to-vim">post</a> de un experto en Rails, creador de <a href="http://www.capify.org/">Capistrano</a>, Jamis Buck y que venía de trabajar con TextMate durante algunos años pero que previamente había trabajado con Vim, y que ahora estaba moviéndose de nueva cuenta a Vim. Jamis Buck como experto en Rails y TextMate, ahora que se estaba moviendo creó un plugin para Vim para tener ciertas funciones que TextMate tiene. Así es que cuando vi este post dije "de aquí soy".
 
 Vim siempre ha sido un editor muy poderoso, el cual he usado por años pero no como un usuario experto, porque la verdad tiene un buen de comandos, pero ahora estoy tratando de subirme en él para los desarrollos en Rails que estaré haciendo.

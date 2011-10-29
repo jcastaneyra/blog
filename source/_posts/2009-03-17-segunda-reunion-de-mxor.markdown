@@ -8,6 +8,8 @@ categories:
 
 El día de ayer fue la segunda reunión de nuestro grupo de Rails MXOR, en el cuál se hablaron de diversos tópicos en general, pero como todos estamos interesados en aprender de estos tópicos llegamos a la idea de trabajar en un proyecto en donde se pueda trabajar con las cosas que nos interesan y que de esto surgan una serie de artículos los cuales puedan servirnos a nosotros como referencia y a las personas interesadas en Rails y de todo lo que está al rededor.
 
+<!-- more -->
+
 Sobre los tópicos que nos resultaron interesantes son:
 
 - Instalación de Linux desde cero y con los necesario para Rails

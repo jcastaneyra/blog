@@ -14,6 +14,8 @@ No se si ya había comentado, pero mi blog lo tengo en un VPS de slicehost y ten
 
 Por lo que me puse a investigar y encontré unos ajustes que se le tienen que hacer a la configuración del servidor apache2:
 
+<!-- more -->
+
     <IfModule mpm_prefork_module>
         StartServers          3
         MinSpareServers       3

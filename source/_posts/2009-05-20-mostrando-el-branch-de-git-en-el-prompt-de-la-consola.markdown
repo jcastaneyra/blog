@@ -17,6 +17,8 @@ Tiene aproximadamente dos meses que empecé a trabajar con git, y la experiencia
             co = checkout
             st = status
 
+<!-- more -->
+
 Por cierto, que la parte de [color] es para mostrar con colores mis cambios cuando le doy git status, aunque ahora con estos cambios ya le podría dar git st.&lt;/p&gt; &lt;p&gt;Otra cosa que noté en mis inicios con git fue que en un screencast de peepcode, en el prompt de la consola aparecía el branch en el que se encontraba trabajando, en ese entonces busqué como hacerlo pero no tuve éxito hasta ahora, entonces para lograr esto hay que agregar un archivo con funciones .bash_functions
 
     # git-related functions in here

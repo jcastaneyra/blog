@@ -8,6 +8,8 @@ categories:
 
 A 17 días de haber empezado el año, me siento muy bien, puedo decir que las vacaciones en las que estuve con la familia me la pasé muy relajado, muy contento, echándola casi todo el tiempo, leyendo, saliendo con la flaca y los amigos a la playa, conocí a mi sobrina que está hecha una hermosura, ay de mi hermana con su hija tan bonita, estoy seguro que le va a tocar espantar novios al por mayor, ahí vas a pagar todas carnala, y pues regresé por ahí del tres de enero de vacaciones y seguí descansando todavía unos días aquí en el depa.
 
+<!-- more -->
+
 A los pocos días de haber entrado al trabajo, obtuve los resultados de la certificación de java developer, y pasé!!!, no se, pero creo que estuve algo bajo en mi resultado, jeje era de esperarse, realmente no puse mucho enfasis en el desarrollo de la GUI, y ahí fue donde salí muy bajo, tons ahora ya soy señor Java Developer, y con esto, también ya me estoy preparando para ir a presentar mi trabajo de titulación a la maestría, por lo que espero pronto, a lo mejor una semana o dos ya seré también maestro.  Aquí está mi resultado:
 <table border="0" cellpadding="0" cellspacing="2" width="450">
 <tr>

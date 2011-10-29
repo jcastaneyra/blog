@@ -8,6 +8,9 @@ categories:
 
 Anoche me puse a instalar un nuevo disco duro de 160 Gb en una maquinilla que tengo en la casa, que está corriendo Debian Sarge y que está funcionando como servidor.
 Este nuevo disco duro vino a sustituir un par de discos (uno de 6 Gb en el que estaban / y swap y el otro de 2.5 Gb que tenía /home), los cuáles ya tenían todo instalado, y como no quise instalar de nueva cuenta el Debian (que hueva de imaginarse todo lo que implicaría, instalar desde ceros, levantar servicios, usuarios, etc.), decidí usar el GParted Live CD, muy útil por cierto, para copiar las particiones del disco duro principal (el disco duro que tenía /boot, y swap) y expandir la partición / hasta ocupar todo el disco.
+
+<!-- more -->
+
 La copia de estas particiones y la expansión de / fue exitosa, pero con lo que no conté fue con que el Grub no estaría en el MBR de este nuevo disco duro, obvio verdad, bueno, pues me di a la tarea de reinstalar Grub en este disco, busqué en internet y todo parecía facil, pero a lo que pensé me llevaría no más de una hora me tomó cinco horas dado a unos pequeños errores que cometí, y he aquí mis experiencias.
 Bien, lo primero que hice fue arrancar con el disco de instalación de Debian, y hasta el momento que dice que si queremos particionar el disco duro, ahí presionamos las teclas &lt;Alt&gt; &lt;F2&gt;, ahí tendremos acceso al shell.
 Una vez en el shell, creamos un directorio donde montaremos la partición en donde se encuentra /boot, en este caso yo cree /disk de la siguiente manera:
